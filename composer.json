@@ -1,5 +1,5 @@
 {
-    "name" : "fab2s/yaetl",
+    "name" : "myli/yaetl",
     "description" : "Widely Extended Nodal Extract-Transform-Load ETL Workflow AKA NEJTL or Nodal-Extract-Join-Tranform-Load",
     "type" : "library",
     "authors" : [{
